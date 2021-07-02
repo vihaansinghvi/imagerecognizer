@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(pink 0%, red 100%);
+}
+b{
+    color: rebeccapurple;
+}
+
+#label{
+    font-size: xx-large;
+}
